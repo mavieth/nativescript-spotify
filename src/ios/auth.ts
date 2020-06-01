@@ -50,12 +50,17 @@ export class TNSSpotifyAuth extends NSObject {
     SPTAuth.defaultInstance().clientID = TNSSpotifyConstants.CLIENT_ID;
     SPTAuth.defaultInstance().redirectURL = NSURL.URLWithString(TNSSpotifyAuth.REDIRECT_URL);
 
-    SPTAuth.defaultInstance().requestedScopes = [
+    SPTAuth.defaultInstance().requestedScopes
+        = [
       'streaming',
       'user-read-private',
+      'user-read-playback-state',
       'user-read-email',
       'user-library-modify',
+      'user-read-playback-position',
+      'user-read-currently-playing',
       'user-library-read',
+      'app-remote-control',
       'playlist-read-private',
       'playlist-modify-private',
       'playlist-modify-public',
