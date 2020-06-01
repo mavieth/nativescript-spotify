@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b3d5b7c-b7ca-4f32-8c7d-380b4264aa2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="jdkForImporter" value="1.8.0_211" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUFSg1ydXkRxRDznBGHi1msVsi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aux/my-plugin" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/demo/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.demo">
+    <configuration name="demo" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/demo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="demo" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo.ios" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="demo.ios" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.demo" />
+        <item itemvalue="npm.demo.ios" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3d5b7c-b7ca-4f32-8c7d-380b4264aa2b" name="Default Changelist" comment="" />
+      <created>1590575266844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590575266844</updated>
+      <workItem from="1590575268246" duration="1287000" />
+      <workItem from="1590593682110" duration="2648000" />
+      <workItem from="1590598387172" duration="942000" />
+      <workItem from="1590971015718" duration="2905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/common.js" />
+        <option value="$PROJECT_DIR$/src/ios/auth.js" />
+        <option value="$PROJECT_DIR$/src/ios/notification.js" />
+        <option value="$PROJECT_DIR$/spotify.ios.d.ts" />
+        <option value="$PROJECT_DIR$/spotify.ios.js" />
+        <option value="$PROJECT_DIR$/spotify.android.d.ts" />
+        <option value="$PROJECT_DIR$/spotify.android.js.map" />
+        <option value="$PROJECT_DIR$/spotify.android.js" />
+        <option value="$PROJECT_DIR$/spotify.ios.js.map" />
+        <option value="$PROJECT_DIR$/src/common.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/player.js" />
+        <option value="$PROJECT_DIR$/src/ios/request.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/player.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/search.js" />
+        <option value="$PROJECT_DIR$/src/ios/playlist.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/playlist.js" />
+        <option value="$PROJECT_DIR$/src/ios/search.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/request.js" />
+        <option value="$PROJECT_DIR$/src/ios/auth.js.map" />
+        <option value="$PROJECT_DIR$/src/ios/notification.js.map" />
+        <option value="$PROJECT_DIR$/src/android/player.js" />
+        <option value="$PROJECT_DIR$/src/android/request.js.map" />
+        <option value="$PROJECT_DIR$/src/android/player.js.map" />
+        <option value="$PROJECT_DIR$/src/android/search.js" />
+        <option value="$PROJECT_DIR$/src/android/playlist.js.map" />
+        <option value="$PROJECT_DIR$/src/android/playlist.js" />
+        <option value="$PROJECT_DIR$/src/android/auth.js" />
+        <option value="$PROJECT_DIR$/src/android/search.js.map" />
+        <option value="$PROJECT_DIR$/src/android/request.js" />
+        <option value="$PROJECT_DIR$/src/android/auth.js.map" />
+        <option value="$PROJECT_DIR$/src/android/request.d.ts" />
+        <option value="$PROJECT_DIR$/src/android/playlist.d.ts" />
+        <option value="$PROJECT_DIR$/src/common.d.ts" />
+        <option value="$PROJECT_DIR$/src/ios/notification.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="356" key="FileChooserDialogImpl" timestamp="1590598468719">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="374" y="356" key="FileChooserDialogImpl/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590598468719" />
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom" timestamp="1590595658567">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590595658567" />
+    <state width="1878" height="284" key="GridCell.Tab.0.center" timestamp="1590595658566">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590595658566" />
+    <state width="1878" height="284" key="GridCell.Tab.0.left" timestamp="1590595658566">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590595658566" />
+    <state width="1878" height="284" key="GridCell.Tab.0.right" timestamp="1590595658567">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="284" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590595658567" />
+    <state x="702" y="261" key="RollbackChangesDialog" timestamp="1590972027754">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="702" y="261" key="RollbackChangesDialog/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590972027754" />
+    <state x="1132" y="306" width="615" height="490" key="find.popup" timestamp="1590972573163">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1132" y="306" width="615" height="490" key="find.popup/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590972573163" />
+    <state x="1132" y="306" width="615" height="490" key="find.popup/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1590577675470" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1590972602038">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1590972602038" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ios/player.ts</url>
+          <line>441</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
