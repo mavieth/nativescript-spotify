@@ -9,7 +9,10 @@
         "noEmitOnError": false,
         "noEmitHelpers": true,
         "noImplicitUseStrict": true,
-        "noLib": true
+        "noLib": true,
+      "lib": [
+        "core.es6"
+      ]
     },
     "files": [
       "node_modules/typescript/lib/lib.core.d.ts",
@@ -19,6 +22,7 @@
       "node_modules/tns-platform-declarations/tns-core-modules/ios/ios.d.ts",
       "node_modules/tns-platform-declarations/tns-core-modules/org.nativescript.widgets.d.ts",
       "spotify.ios.ts",
+      "src/common.ts",
       "spotify.android.ts"
     ],
     "compileOnSave": false
